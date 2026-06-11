@@ -83,3 +83,13 @@ only because SPI - also because of bad experiences with the ad8232 <br>
 # Zine
 
 ![Zine](Assets/Zine.png)
+
+# BOM
+Name | Link | QTY | Unit Price | Total Price | Running Total | Notes
+--- | --- | ---: | ---: | ---: | ---: | ---
+500 mAh LiPo battery | https://robu.in/product/500mah-pcm-protected-micro-li-po-battery/ | 1 | 2.73 | 2.73 | 2.73 |
+MCU PCB | Seeed Fusion | 1 | 73.00 | 73.00 | 75.73 | refer to PCB BOM
+ECG PCB | JLCPCB | 1 | 57.00 | 57.00 | 132.73 | refer to PCB BOM
+M2.5 Screws (10 mm) | https://onlyscrews.in/products/m2-5-x-10mm-hex-allen-socket-head-high-tensile12-9-black-oxide-screw-dia-2-5mm-length-10mm | 15 | 0.07 | 1.05 | 133.78 |
+| | | | |  |
+TOTAL | | | | 133.78 | |
