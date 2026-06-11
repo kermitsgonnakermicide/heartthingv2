@@ -1,7 +1,7 @@
 Name,Link,QTY,Unit Price,Total Price,Running Total,Notes
-500 mAh LiPo batteyr,https://robu.in/product/500mah-pcm-protected-micro-li-po-battery/,1,2.73,2.73,2.73,
-MCU PCB,Seeed Fusion,1,73,73,75.73, refer to PCB BOM
+500 mAh LiPo battery,"https://robu.in/product/500mah-pcm-protected-micro-li-po-battery/",1,2.73,2.73,2.73,
+MCU PCB,Seeed Fusion,1,73,73,75.73,refer to PCB BOM
 ECG PCB,JLCPCB,1,57,57,132.73,refer to PCB BOM
-M2.5 Screws,https://onlyscrews.in/products/m2-5-x-10mm-hex-allen-socket-head-high-tensile12-9-black-oxide-screw-dia-2-5mm-length-10mm?pr_prod_strat=e5_desc&pr_rec_id=54630c32c&pr_rec_pid=9663736021305&pr_ref_pid=9663796904249&pr_seq=uniform,15,0.07,1.05,133.78,
-,,,,,,,
-TOTAL,,,,,133.78,,
+M2.5 Screws,"https://onlyscrews.in/products/m2-5-x-10mm-hex-allen-socket-head-high-tensile12-9-black-oxide-screw-dia-2-5mm-length-10mm",15,0.07,1.05,133.78,
+,,,,,60h /
+TOTAL,,,,133.78,,
