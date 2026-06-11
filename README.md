@@ -15,7 +15,7 @@ the device is tiny, just taking up 6x3 cm(can go FAR smaller) and is connected t
 in terms of battery - i'm just using the cheapest thing on hand and it should(in theory) last at least a day, thanks to [ttf's super optimized firmware](https://github.com/TTF-fog/ArrythmiX)<br>
 
 # why??
-i ~~was sold into slavery by a chinese warlord and then ttf forced me to make this~~ requested by my good friend [ttf](https://github.com/TTF-fog) to help him redesign the PCB for their project + test out/evaluate the nRF54 as a viable option - this is also why i'm using their firmware.<br>
+i ~~was sold into slavery by a chinese warlord and then ttf forced me to make this~~ requested by my good friend [ttf](https://github.com/TTF-fog) to help him redesign the PCB for their project + test out/evaluate the nRF54 as a viable option - this is also why i'm using their firmware available [here](https://github.com/TTF-fog/ArrythmiX).<br>
 i'll be answering some frequently asked questions below<br>
 **Q - why xiao?**<br>
 because they're tiny and epic, and also because I couldnt figure out how to route antennas and no nRF54 modules were very well documented so i left them <br>
